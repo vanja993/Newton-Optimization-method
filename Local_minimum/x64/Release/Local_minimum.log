@@ -1,0 +1,17 @@
+﻿  Local_minimum.cpp
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(12,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(15,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(16,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(23,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(36,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(42,65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(46,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(47,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\Local_minimum\Local_minimum.cpp(76,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3771 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Local_minimum.vcxproj -> C:\Users\vanja\OneDrive\Desktop\Newton method of optimization\Local_minimum\x64\Release\Local_minimum.exe
